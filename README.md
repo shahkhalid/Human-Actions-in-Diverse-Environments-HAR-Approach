@@ -1,0 +1,2 @@
+# Human-Actions-in-Diverse-Environments-HAR-Approach
+ The proposed HADE architecture addresses the challenges in 3D action recognition through the integration of advanced models and a high-quality dataset. The documentation provides clear insights into each layer of the architecture, including data acquisition, preprocessing, algorithmic processing, and insights generation. This framework serves as a foundation for developing accurate and reliable 3D action recognition systems, with potential for broader applications in various real-world scenarios.

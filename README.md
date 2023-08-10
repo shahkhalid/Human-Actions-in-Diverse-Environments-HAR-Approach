@@ -5,6 +5,16 @@ This approach consists of three main contributions:
 1. Self-created HADE dataset (link is shared)
 2. Trained CNN models with hyper-parameter tuned values
 3. Visualizations and source code used for training and testing.
+
+# Parameters used and their values 
+
+learning_rate: 0.001, 
+wd: 0.0001, 
+momentum: 0.9
+learning rate decay = 0.1
+batch size = 5
+total epochs each model = 1
+
    
 # Published Dataset used for this approach can be accessed and cited as
 
